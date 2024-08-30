@@ -1,10 +1,10 @@
-# EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
+# EXP-02 EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
 
 
- #### NAME :
- #### REGISTER NUMBER : 
- #### DEPARTMENT : 
- #### YEAR :
+ #### NAME : SURIYA M
+ #### REGISTER NUMBER : 212223110055
+ #### DEPARTMENT : CSE(IOT)
+ #### YEAR : II
  
 # Aim:
 To understand and implement timer operations in a PLC using ladder logic and verify the output for different types of timers (ON-delay, OFF-delay, and Retentive timers).
@@ -81,8 +81,11 @@ Retentive Timer: The output should turn on after the accumulated time reaches th
 
 # Simulation Screenshots 
 
+## On-Delay Timer:
+![image](https://github.com/user-attachments/assets/11bc960c-d162-4b46-a595-f3e10d3f7b81)
 
-
+## Off-Delay Timer:
+![image](https://github.com/user-attachments/assets/a79d9947-09e0-44c0-8eae-bb84f36958cd)
 
 
 
